@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y/xiAU0OPDYYvB6p4gFSCgAgrDhisnk03Y0nSuSSL1g8f4NWLBeUc69AHWoq22JTPPlP5k9/wF+MfZLjfWH0ew==",
+  "dgSpecHash": "qQl/J2kP/Uxn1A/E9+wUvIjLDSYyhZLxnt8ijCk5NqsyarZPfUwLENfO0as46H+L8aDNQf8Osp/LVStcg9lyMA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ngo Quoc Nhu\\Desktop\\abc\\Server\\Server.csproj",
+  "projectFilePath": "C:\\Users\\Ngo Quoc Nhu\\Desktop\\Socket_GPS\\Server\\Server.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

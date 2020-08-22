@@ -22,15 +22,38 @@ void setup() {
 
   ss.print("+++");
   delay(300);
+  while (ss.available() != 0){
+    digitalWrite(led, HIGH);
+    Serial.print(ss.read());
+  }
   ss.print("AT+ROLE=STA");
   delay(300);
-  ss.print("AT+AP=MQ_Network,WPA2,1denmuoi1");
+  while (ss.available() != 0){
+    digitalWrite(led, HIGH);
+    Serial.print(ss.read());
+  }
+  Serial.println("Xong 1");
+  ss.print("AT+AP=DCSVN,WPA2,03021930");
   delay(300);
-  ss.print("AT+SOCK=TCPC,9000,192.168.0.108,8080");       // IP LAN, PORT
+  while (ss.available() != 0){
+    digitalWrite(led, HIGH);
+    Serial.print(ss.read());
+  }
+  Serial.println("Xong 2");
+  ss.print("AT+SOCK=TCPC,9000,192.168.137.163,8080");       // IP LAN, PORT
   delay(300);
+  while (ss.available() != 0){
+    digitalWrite(led, HIGH);
+    Serial.print(ss.read());
+  }
+  Serial.println("Xong 3");
   ss.print("AT+RST");
   delay(1000);
-  Serial.println("Xong");
+  while (ss.available() != 0){
+    digitalWrite(led, HIGH);
+    Serial.print(ss.read());
+  }
+  Serial.println("Xong 4");
 }
 
 void loop() {

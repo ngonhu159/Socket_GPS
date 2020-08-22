@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ngo Quoc Nhu\\Desktop\\abc\\Server\\Server.csproj": {}
+    "C:\\Users\\Ngo Quoc Nhu\\Desktop\\Socket_GPS\\Server\\Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ngo Quoc Nhu\\Desktop\\abc\\Server\\Server.csproj": {
+    "C:\\Users\\Ngo Quoc Nhu\\Desktop\\Socket_GPS\\Server\\Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ngo Quoc Nhu\\Desktop\\abc\\Server\\Server.csproj",
+        "projectUniqueName": "C:\\Users\\Ngo Quoc Nhu\\Desktop\\Socket_GPS\\Server\\Server.csproj",
         "projectName": "Server",
-        "projectPath": "C:\\Users\\Ngo Quoc Nhu\\Desktop\\abc\\Server\\Server.csproj",
+        "projectPath": "C:\\Users\\Ngo Quoc Nhu\\Desktop\\Socket_GPS\\Server\\Server.csproj",
         "packagesPath": "C:\\Users\\Ngo Quoc Nhu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ngo Quoc Nhu\\Desktop\\abc\\Server\\obj\\",
+        "outputPath": "C:\\Users\\Ngo Quoc Nhu\\Desktop\\Socket_GPS\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ngo Quoc Nhu\\AppData\\Roaming\\NuGet\\NuGet.Config"

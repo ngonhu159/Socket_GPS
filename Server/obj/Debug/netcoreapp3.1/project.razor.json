@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\Ngo Quoc Nhu\\Desktop\\abc\\Server\\Server.csproj",
+  "FilePath": "c:\\Users\\Ngo Quoc Nhu\\Desktop\\Socket_GPS\\Server\\Server.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -20977,54 +20977,54 @@
   "RootNamespace": "Server",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\Ngo Quoc Nhu\\Desktop\\abc\\Server\\Pages\\Counter.razor",
-      "TargetPath": "Pages\\Counter.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\Ngo Quoc Nhu\\Desktop\\abc\\Server\\_Imports.razor",
-      "TargetPath": "_Imports.razor",
-      "FileKind": "componentImport"
-    },
-    {
-      "FilePath": "c:\\Users\\Ngo Quoc Nhu\\Desktop\\abc\\Server\\App.razor",
-      "TargetPath": "App.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\Ngo Quoc Nhu\\Desktop\\abc\\Server\\Shared\\NavMenu.razor",
-      "TargetPath": "Shared\\NavMenu.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\Ngo Quoc Nhu\\Desktop\\abc\\Server\\Pages\\Index.razor",
-      "TargetPath": "Pages\\Index.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\Ngo Quoc Nhu\\Desktop\\abc\\Server\\Shared\\MainLayout.razor",
+      "FilePath": "c:\\Users\\Ngo Quoc Nhu\\Desktop\\Socket_GPS\\Server\\Shared\\MainLayout.razor",
       "TargetPath": "Shared\\MainLayout.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\Ngo Quoc Nhu\\Desktop\\abc\\Server\\Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Ngo Quoc Nhu\\Desktop\\abc\\Server\\Pages\\_Host.cshtml",
+      "FilePath": "c:\\Users\\Ngo Quoc Nhu\\Desktop\\Socket_GPS\\Server\\Pages\\_Host.cshtml",
       "TargetPath": "Pages\\_Host.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Ngo Quoc Nhu\\Desktop\\abc\\Server\\Pages\\FetchData.razor",
+      "FilePath": "c:\\Users\\Ngo Quoc Nhu\\Desktop\\Socket_GPS\\Server\\App.razor",
+      "TargetPath": "App.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Ngo Quoc Nhu\\Desktop\\Socket_GPS\\Server\\Shared\\NavMenu.razor",
+      "TargetPath": "Shared\\NavMenu.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Ngo Quoc Nhu\\Desktop\\Socket_GPS\\Server\\Pages\\Counter.razor",
+      "TargetPath": "Pages\\Counter.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Ngo Quoc Nhu\\Desktop\\Socket_GPS\\Server\\Shared\\SurveyPrompt.razor",
+      "TargetPath": "Shared\\SurveyPrompt.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Ngo Quoc Nhu\\Desktop\\Socket_GPS\\Server\\_Imports.razor",
+      "TargetPath": "_Imports.razor",
+      "FileKind": "componentImport"
+    },
+    {
+      "FilePath": "c:\\Users\\Ngo Quoc Nhu\\Desktop\\Socket_GPS\\Server\\Pages\\Index.razor",
+      "TargetPath": "Pages\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Ngo Quoc Nhu\\Desktop\\Socket_GPS\\Server\\Pages\\FetchData.razor",
       "TargetPath": "Pages\\FetchData.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\Ngo Quoc Nhu\\Desktop\\abc\\Server\\Shared\\SurveyPrompt.razor",
-      "TargetPath": "Shared\\SurveyPrompt.razor",
-      "FileKind": "component"
+      "FilePath": "c:\\Users\\Ngo Quoc Nhu\\Desktop\\Socket_GPS\\Server\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.2"
